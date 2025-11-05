@@ -1,0 +1,7 @@
+cat > exe1.html <<'EOF'
+<html>
+<body>gi
+<h1>Exercici 1</h1>
+</body>
+</html>
+EOF
