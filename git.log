@@ -1,0 +1,41 @@
+    1  git
+    2  sudo apt install git
+    8  git clone git@github.com:musty26/projecte-smx2b-2025-2026.git
+   13  git pull
+   14  git restore README.md 
+   15  git pull
+   17  git pull
+   19  git status
+   20  git add README.md 
+   21  git commit -m 'Afegit musty26'
+   22  git status
+   23  git push
+   26  git pull -all
+   27  git pull --all
+   28  git branch
+   30  git branch -D web
+   31  git branch 
+   32  git switch -c web 
+   33  git pull origin web
+   34  git pull origin WEB
+   40  git pull
+   50  git add README.md exel.html
+   66  git add README.md exel.html
+   69  git add README.md exel.html
+   74  git add README.md exel.html
+   75  git commit -m "Nou exe1"
+   76  git push
+   80  git add Exercici_2
+   81  git commit -m "Nou exe2"
+   82  git push
+   86  git add README.md exel.html Exercici_2.html 
+   87  git commit -m "Using Bootstrap"
+   88  git push
+   89  git push origin main
+   90  git checkout -b web
+   91  git push -u origin web
+   92  git checkout main
+   93  git rm exel.html Exercici_2.html 
+   94  git commit -m "Deixa només README a main"
+   95  git push origin main
+   96  history | grep git > git.log
